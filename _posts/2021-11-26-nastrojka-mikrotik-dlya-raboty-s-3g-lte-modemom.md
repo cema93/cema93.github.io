@@ -1,5 +1,5 @@
 ---
-title: НАСТРОЙКА MIKROTIK ДЛЯ РАБОТЫ С 3G/LTE МОДЕМОМ
+title: Настройка MikroTik для работы с 3G/LTE модемом
 layout: post
 date: '2021-11-26 17:51:00'
 category: MikroTik
